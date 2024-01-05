@@ -3,9 +3,8 @@
 
 <img align="right" alt="GIF" src="https://i.stack.imgur.com/NSHyg.gif" width="400" height="300" />
 
-- 🤔 Looking for help with Data Structures and Algorithms 😭
+- 🤔 Looking for help with Data Structures and Algorithms
 - 🥅 coding automation projects ⚡
-- 🔭 I’m currently working on Open source projects and hackathons ⚡
 
 <br />
 <br />
@@ -88,9 +87,7 @@ src="https://octodex.github.com/images/Robotocat.png" height="160px" width="160p
     <img src="https://cultofthepartyparrot.com/parrots/hd/hypnoparrotdark.gif" width="25" height="25"/>
     <img src="https://cultofthepartyparrot.com/parrots/hd/mustacheparrot.gif" width="25" height="25"/>
 </div>
-
-
-![snake svg](https://github.com/HaydarovAkbar/HaydarovAkbar/blob/output/github-contribution-grid-snake.svg)
+![snake svg](https://github.com/adityamangal1/adityamangal1/blob/output/github-contribution-grid-snake.svg)
 
 <p align="center">
   <img alt="Sloan, the sloth mascot" width="250px" src="https://thepracticaldev.s3.amazonaws.com/uploads/user/profile_image/31047/af153cd6-9994-4a68-83f4-8ddf3e13f0bf.jpg">
