@@ -9,7 +9,7 @@
 <br />
 <br />
 
-<a href="https://dev.to/HaydarovAkbar">
+<a href="https://dev.to/kamezukashi">
   <img src="https://d2fltix0v2e0sb.cloudfront.net/dev-badge.svg" alt="Aditya Mangal's DEV Community Profile" height="30" width="30">
 </a>
 
